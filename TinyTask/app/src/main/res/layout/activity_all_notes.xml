@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:padding="16dp">
 
-    <!-- Fila 1 -->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -24,7 +24,7 @@
             android:text="Hecho"/>
     </LinearLayout>
 
-    <!-- Fila 2 -->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -43,7 +43,7 @@
             android:text="Hecho"/>
     </LinearLayout>
 
-    <!-- Agrega más filas según sea necesario -->
+
 
 </LinearLayout>
 
